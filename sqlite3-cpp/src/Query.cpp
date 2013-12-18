@@ -1,6 +1,6 @@
 /*
  * File:   Query.cpp
- * Author: a-campos
+ * Author: augcampos
  *
  * Created on December 6, 2013, 2:46 PM
  */

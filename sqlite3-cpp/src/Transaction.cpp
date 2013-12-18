@@ -1,6 +1,6 @@
 /*
  * File:   Transaction.cpp
- * Author: a-campos
+ * Author: augcampos
  *
  * Created on November 27, 2013, 10:46 PM
  */

@@ -1,6 +1,6 @@
 /*
  * File:   Exception.cpp
- * Author: a-campos
+ * Author: augcampos
  *
  * Created on November 27, 2013, 10:52 PM
  */

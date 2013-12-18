@@ -1,6 +1,6 @@
 /*
  * File:   Column.cpp
- * Author: a-campos
+ * Author: augcampos
  *
  * Created on November 27, 2013, 11:03 PM
  */

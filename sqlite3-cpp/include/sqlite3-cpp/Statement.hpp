@@ -1,6 +1,6 @@
 /* 
  * File:   Statement.hpp
- * Author: a-campos
+ * Author: augcampos
  *
  * Created on November 27, 2013, 10:47 PM
  */

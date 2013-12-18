@@ -1,6 +1,6 @@
 /* 
  * File:   Row.cpp
- * Author: a-campos
+ * Author: augcampos
  * 
  * Created on November 28, 2013, 1:12 AM
  */
