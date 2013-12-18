@@ -1,4 +1,4 @@
-libsqlite3-cpp
+sqlite3-cpp
 ==============
 
 Sqlite 3 C++ Wrapper
