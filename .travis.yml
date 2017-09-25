@@ -1,5 +1,9 @@
 language: cpp
 compiler: gcc
 
-before_install: cd sqlite3-cpp
-install: make
+install: true
+
+before_script: cd sqlite3-cpp
+ 
+script:
+  - make -C Build
