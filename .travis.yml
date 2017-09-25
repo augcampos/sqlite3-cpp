@@ -6,4 +6,4 @@ install: true
 before_script: cd sqlite3-cpp
  
 script:
-  - make -C Build
+  - make
